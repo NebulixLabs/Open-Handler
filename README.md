@@ -66,7 +66,7 @@ The core workflow looks like:
 
 ### Architecture Diagram
 
-![Nebul Architecture](images/arcitecture_handler.png)
+![Nebul Architecture](arcitecture_handler.png)
 
 The architecture is designed to keep the agent's **reasoning, execution, and tools** separated into clear components, making the system easier to modify and extend.
 
