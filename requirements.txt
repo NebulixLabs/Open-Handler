@@ -1,0 +1,26 @@
+# ============================================================
+# Requirements for Nebulix Labs Future AI Agent
+# Auto-generated from main.py imports
+# ============================================================
+
+# Third-party packages (install via pip install -r requirements.txt)
+flask
+flask-cors
+openai
+requests
+python-dotenv
+tavily-python
+beautifulsoup4
+
+# Built-in / standard library modules (no installation needed)
+# json
+# os
+# uuid
+# webbrowser
+# datetime
+# subprocess
+# threading
+# concurrent.futures
+# re
+
+# Special thing is, this file is created by this Agent
